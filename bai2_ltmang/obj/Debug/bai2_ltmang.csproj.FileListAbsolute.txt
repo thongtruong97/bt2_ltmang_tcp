@@ -1,0 +1,6 @@
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\bin\Debug\bai2_ltmang.exe.config
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\obj\Debug\bai2_ltmang.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\bin\Debug\bai2_ltmang.exe
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\bin\Debug\bai2_ltmang.pdb
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\obj\Debug\bai2_ltmang.exe
+C:\Users\Thong\Desktop\bai2_ltmang\bai2_ltmang\obj\Debug\bai2_ltmang.pdb
